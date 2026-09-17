@@ -1,7 +1,7 @@
 <!-- Repositório de portfólio do Vetorque — sem código-fonte. -->
 
 <p align="center">
-  <img src="docs/feature.png" alt="Vetorque — Gestão para oficinas mecânicas" width="100%">
+  <img src="/feature.png" alt="Vetorque — Gestão para oficinas mecânicas" width="100%">
 </p>
 
 <h1 align="center">Vetorque</h1>
@@ -57,8 +57,8 @@ Muitas oficinas mecânicas ainda controlam ordens de serviço, estoque e finance
 
 | | | |
 |:--:|:--:|:--:|
-| <img src="docs/screen-1.png" width="240"> | <img src="docs/screen-2.png" width="240"> | <img src="docs/screen-3.png" width="240"> |
-| <img src="docs/screen-4.png" width="240"> | <img src="docs/screen-5.png" width="240"> | <img src="docs/screen-6.png" width="240"> |
+| <img src="/screen-1.png" width="240"> | <img src="/screen-2.png" width="240"> | <img src="/screen-3.png" width="240"> |
+| <img src="/screen-4.png" width="240"> | <img src="/screen-5.png" width="240"> | <img src="/screen-6.png" width="240"> |
 
 ## Roadmap
 
