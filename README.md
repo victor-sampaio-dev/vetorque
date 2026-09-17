@@ -60,13 +60,13 @@ Muitas oficinas mecânicas ainda controlam ordens de serviço, estoque e finance
 | <img src="/screen-1.png" width="240"> | <img src="/screen-2.png" width="240"> | <img src="/screen-3.png" width="240"> |
 | <img src="/screen-4.png" width="240"> | <img src="/screen-5.png" width="240"> | <img src="/screen-6.png" width="240"> |
 
-## Roadmap
+<!--## Roadmap
 
 - [x] MVP offline publicado na Google Play (teste fechado)
 - [ ] Compra vitalícia (desbloqueio do app local)
 - [ ] Assinatura SaaS (nuvem, multi-dispositivo, relatórios avançados)
 - [ ] Página pública por oficina
-- [ ] Multi-idioma (pt / en / es)
+- [ ] Multi-idioma (pt / en / es)-->
 
 ## Status
 
