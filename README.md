@@ -60,7 +60,7 @@ estoque, agenda e financeiro. Funciona offline, direto no celular.
 
 [![Disponível no Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.vetorque.app)
 
-![Vetorque](feature-def.png)
+![Vetorque](feature-def.jpg)
 
 ## Telas
 
