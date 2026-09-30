@@ -1,7 +1,7 @@
 <!-- Repositório de portfólio do Vetorque — sem código-fonte. -->
 
 <p align="center">
-  <img src="/feature-def.png" alt="Vetorque — Gestão para oficinas mecânicas" width="100%">
+  <img src="/feature-def.jpg" alt="Vetorque — Gestão para oficinas mecânicas" width="100%">
 </p>
 
 <h1 align="center">Vetorque</h1>
