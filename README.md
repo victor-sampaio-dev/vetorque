@@ -53,6 +53,15 @@ Muitas oficinas mecânicas ainda controlam ordens de serviço, estoque e finance
 - Feature flags de edição (Lite/Full): recursos de servidor ficam atrás de flags, permitindo introduzir planos pagos sem reescrever o app.
 - Valores monetários como inteiros (centavos), evitando erros de ponto flutuante no financeiro.
 
+# Vetorque
+
+Aplicativo de gestão para oficinas mecânicas — ordens de serviço, clientes,
+estoque, agenda e financeiro. Funciona offline, direto no celular.
+
+[![Disponível no Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.vetorque.app)
+
+![Vetorque](feature-def.png)
+
 ## Telas
 
 | | | |
@@ -70,7 +79,12 @@ Muitas oficinas mecânicas ainda controlam ordens de serviço, estoque e finance
 
 ## Status
 
-Em teste fechado na Google Play. Link para download público em breve.
+![Status](https://img.shields.io/badge/status-em%20produção-success)
+![Versão](https://img.shields.io/badge/versão-1.3-blue)
+![Google Play](https://img.shields.io/badge/Google%20Play-em%20lançamento-3DDC84?logo=googleplay&logoColor=white)
+
+Publicado na Google Play (em fase de lançamento). Desenvolvido e mantido de forma independente.
+
 
 ---
 
